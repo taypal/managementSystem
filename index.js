@@ -1,7 +1,7 @@
 var mysql = require("mysql");
 var inquirer = require("inquirer");
 var figlet = require("figlet");
-var table = require("console.table")
+// var Ctable = require("console.table")
 
 var connection = mysql.createConnection({
 
